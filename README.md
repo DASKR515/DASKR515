@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@cotan_jo?si=T6IxSAmh5uRJ__FN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DASKR.DASKR&" />
 </div>
 
