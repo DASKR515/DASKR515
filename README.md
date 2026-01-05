@@ -2,7 +2,7 @@
 <h2 align="left">Hi, my name is JABIR or as i prefer DASKR from jordan-🇯🇴 </h2>
 
 <div align="center">
-  <img src="image/luaAP.png" width="100%" />
+  <img src="image/LuaAP.png" width="100%" />
 </div>
 
 <p align="left">
