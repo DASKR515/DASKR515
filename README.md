@@ -13,9 +13,9 @@ I am always seeking a deeper philosophy—one viewed from an angle the world has
 ## I can do it, you can't
 
 <div align="left">
-  <img src="luajit.jpg" height="30" alt="luajit logo" />
+  <img src="image/luajit.jpg" height="30" alt="luajit logo" />
   <img width="12" />
-  <img src="luau.png" height="30" alt="luau logo" />
+  <img src="image/luau.png" height="30" alt="luau logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
