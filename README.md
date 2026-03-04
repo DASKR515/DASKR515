@@ -1,14 +1,8 @@
 
 <h2 align="left">Hi, my name is JABIR or as i prefer DASKR from jordan-🇯🇴 </h2>
 
-<div align="center">
-  <img src="image/LuaAP.png" width="100%" />
-</div>
-
 <p align="left">
-I am a realist, not driven by logic or conventional philosophy. 
-I search for the cryptic language of random experiments, a realm where unity and eternity exist beyond rationality. 
-I am always seeking a deeper philosophy—one viewed from an angle the world has never seen befor .
+just lua
 </p>
 
 
